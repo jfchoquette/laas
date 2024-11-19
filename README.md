@@ -1,6 +1,6 @@
 # Lab as a Service (LaaS)
 
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/anuket-project/laas/badge)](https://scorecard.dev/viewer/?uri=github.com/anuket-project/laas)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/jfchoquette/laas/badge)](https://scorecard.dev/viewer/?uri=github.com/jfchoquette/laas)
 
 
 The dashboard is deployed using docker-compose.
