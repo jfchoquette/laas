@@ -1,5 +1,5 @@
 celery==5.4.0
-cryptography==42.0.8
+cryptography==43.0.1
 Django==5.0
 django-bootstrap4==24.3
 django-filter==24.2
